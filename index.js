@@ -1,7 +1,7 @@
 'use strict';
 
 var utils = require('handlebars-utils');
-var moment = require('moment');
+var moment = require('moment-timezone');
 var date = require('date.js');
 
 module.exports = function dateHelper(str, pattern, options) {

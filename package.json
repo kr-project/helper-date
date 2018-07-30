@@ -26,7 +26,7 @@
   "dependencies": {
     "date.js": "^0.3.1",
     "handlebars-utils": "^1.0.4",
-    "moment": "^2.18.1"
+    "moment-timezone": "^0.5.14"
   },
   "devDependencies": {
     "gulp-format-md": "^1.0.0",
