@@ -32,7 +32,7 @@
     "gulp-format-md": "^1.0.0",
     "handlebars": "^4.0.10",
     "lodash": "^4.17.4",
-    "mocha": "^3.5.0"
+    "mocha": "^8.1.1"
   },
   "keywords": [
     "calendar",
