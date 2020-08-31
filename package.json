@@ -29,7 +29,7 @@
     "moment-timezone": "^0.5.14"
   },
   "devDependencies": {
-    "gulp-format-md": "^1.0.0",
+    "gulp-format-md": "^2.0.0",
     "handlebars": "^4.0.10",
     "lodash": "^4.17.4",
     "mocha": "^8.1.2"
